@@ -21,4 +21,4 @@ This dashboard can support HR and leadership teams in tracking emplpoyee health 
 
 ### Dashboard Preview
 
-![Dashboard](hr-analytics-powerbi-dashboard)
+![Dashboard](hr-analytics-powerbi-dashboard.png)
